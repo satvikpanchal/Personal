@@ -9,3 +9,4 @@ PYTHON:
 
 JAVA:
 1. Made a java program that uses the scanner class to take user input and uses for loops and if statements to sort the elements in the array. 
+2. Made a java program that can make calculations with matrices using 2D arrays, scanner class, conditional statements and for loops.
