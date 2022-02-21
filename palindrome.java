@@ -1,4 +1,4 @@
-//package Personal;
+package Personal;
 
 import java.util.Scanner;
 
